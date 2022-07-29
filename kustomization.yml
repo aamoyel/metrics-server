@@ -1,6 +1,6 @@
 # kustomization.yml
 resources:
-- https://github.com/kubernetes-sigs/metrics-server/releases/latest/download/components.yaml
+- https://github.com/kubernetes-sigs/metrics-server/releases/download/v0.6.1/components.yaml
 
 patchesJson6902:
 - path: deployment-patch.yml
