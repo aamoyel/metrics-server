@@ -34,7 +34,6 @@ This project allows you to deploy [Metrics Server](https://github.com/kubernetes
 
 
 ### Built With
-
 * [Kubernetes](https://kubernetes.io/)
 * [Kustomize](https://kustomize.io/)
 
@@ -45,16 +44,12 @@ This project allows you to deploy [Metrics Server](https://github.com/kubernetes
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up this project on your kubernetes cluster.
-
 ### Prerequisites
-
 You need to have :
 * Kubernetes cluster
 * Kustomize binary
 
 ### Installation
-
 1. Clone the repo :
    ```sh
    git clone https://github.com/aamoyel/metrics-server.git && cd metrics-server
